@@ -26,11 +26,17 @@ Each resource in this folder should include the following sections:
 8. **Real-World Business Application** – A realistic scenario where the resource is used.
 9. **Common Mistakes and Limitations** – Frequent errors, assumptions, and caveats.
 
-## Contribution Notes
+# Contribution and Documentation Guidelines
 
-- Add one topic per file, using descriptive file names.
-- State assumptions and data sources clearly.
-- Include only work that has been completed and verified.
-- Remove the `.gitkeep` file from a subfolder once real content is added.
+Organize information by topic and use descriptive file names.
+Keep each file focused on one primary subject or concept.
+Clearly identify assumptions, data sources, and calculation methods.
+Include accurate examples and verify formulas, calculations, and technical information.
+Distinguish between completed work, practice exercises, and work in progress.
+Document learning progress honestly without overstating skills or accomplishments.
+Use public, synthetic, or appropriately anonymized data.
+Remove .gitkeep files from folders once actual content has been added.
+Keep formatting, terminology, and documentation standards consistent throughout the repository.
+Update existing documents when information changes or new knowledge is gained.
 
 [← Back to main README](../README.md)
