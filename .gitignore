@@ -1,0 +1,28 @@
+# Python temporary files and local environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+.env.*
+!.env.example
+
+# Jupyter temporary files
+.ipynb_checkpoints/
+
+# Excel/Office temporary lock files
+~$*
+*.tmp
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Local secrets and credentials
+*.pem
+*.key
+credentials.json
+secrets.json
