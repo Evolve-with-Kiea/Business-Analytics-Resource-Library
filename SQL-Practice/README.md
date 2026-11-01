@@ -2,7 +2,7 @@
 
 ## Learning SQL Through Database Fundamentals, Query Writing, Data Analysis & Business Problem-Solving
 
-### Business Analytics Technology | SQL Learning Journal & Practical Query Development
+### Business Analytics Resource Library | SQL Learning Journal & Practical Query Development
 
 ## Overview
 
