@@ -18,6 +18,7 @@ This repository organizes knowledge, templates, and worked examples in one struc
 
 | Resource Folder | Description |
 |---|---|
+| [Excel Learning Resources](Excel-Learning-Resources/) | Guided Excel workbooks, practice exercises, and learning references for developing applied business analytics skills. |
 | [Excel Formula Library](Excel-Formula-Library/) | A reference collection of Excel formulas and functions organized by category, with explanations of how and when to use each. |
 | [Business KPI Library](Business-KPI-Library/) | A reference library of key performance indicators used to measure business performance across functions. |
 | [Financial Analysis Toolkit](Financial-Analysis-Toolkit/) | A toolkit of financial analysis methods and accounting calculations for evaluating business performance. |
@@ -31,6 +32,8 @@ This repository organizes knowledge, templates, and worked examples in one struc
 
 ```text
 Business-Analytics-Resource-Library/
+├── Excel-Learning-Resources/
+│   └── README.md
 ├── Excel-Formula-Library/
 │   ├── Basic-Formulas/
 │   ├── Logical-Functions/
