@@ -1190,6 +1190,15 @@ Folder names, example topics, and future applications should not be interpreted 
 
 ---
 
+## Quick Access & Repository Standards
+
+- [Resource Index](RESOURCE-INDEX.md) — find published reference guides and distinguish them from planned exercises.
+- [Quality, Data & Validation Guidelines](QUALITY-AND-DATA-GUIDELINES.md) — verification, privacy, reproducibility, and learning-status standards.
+
+**Note:** Individual topic subfolders may still contain placeholders. README documentation and illustrative examples do not establish that exercises or portfolio projects have been completed.
+
+---
+
 ## Repository Links
 
 **Business Analytics Resource Library**
