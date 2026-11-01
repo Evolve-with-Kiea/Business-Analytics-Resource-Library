@@ -18,17 +18,29 @@ This index distinguishes existing reference materials from planned learning exer
 | Dashboard guide | [Dashboard Templates](Dashboard-Templates/README.md) | Published documentation | Design and reporting framework |
 | Process improvement guide | [Business Process Improvement](Business-Process-Improvement/README.md) | Published documentation | Improvement methodology framework |
 
+## Introductory reference examples now available
+
+These are **published illustrative references**, not independently completed or verified learner exercises.
+
+| Reference | Link |
+|---|---|
+| Excel SUM | [SUM.md](Excel-Formula-Library/Basic-Formulas/SUM.md) |
+| Gross profit margin | [Gross-Profit-Margin.md](Business-KPI-Library/Financial-KPIs/Gross-Profit-Margin.md) |
+| Current ratio | [Current-Ratio.md](Financial-Analysis-Toolkit/Financial-Ratios/Current-Ratio.md) |
+| Python print function | [Print-Function.md](Python-Learning-Journal/Fundamentals/Print-Function.md) |
+| SQL SELECT | [SELECT-Statements.md](SQL-Practice/SQL-Fundamentals/SELECT-Statements.md) |
+
 ## First suggested practice entries
 
-These are **planned suggestions**, not completed or independently verified exercises.
+The reference examples above now exist. The **independent practice tasks within them remain uncompleted** until worked and documented by the learner.
 
 | Proposed entry | Location | Focus |
 |---|---|---|
-| SUM function practice | Excel-Formula-Library/Basic-Formulas/ | Totals and ranges |
-| Gross profit margin reference | Business-KPI-Library/Financial-KPIs/ | Definition, calculation, interpretation |
-| Python print function journal entry | Python-Learning-Journal/Fundamentals/ | Syntax, output, reflection |
-| SQL SELECT practice | SQL-Practice/SQL-Fundamentals/ | Retrieval, ordering, expected results |
-| Current ratio calculation | Financial-Analysis-Toolkit/Financial-Ratios/ | Liquidity calculation and limitations |
+| SUM independent exercise | Excel-Formula-Library/Basic-Formulas/ | Totals and ranges |
+| Gross profit margin independent exercise | Business-KPI-Library/Financial-KPIs/ | Definition, calculation, interpretation |
+| Python print function journal reflection | Python-Learning-Journal/Fundamentals/ | Syntax, output, reflection |
+| SQL SELECT independent exercise | SQL-Practice/SQL-Fundamentals/ | Retrieval, ordering, expected results |
+| Current ratio independent calculation | Financial-Analysis-Toolkit/Financial-Ratios/ | Liquidity calculation and limitations |
 
 ## Status definitions
 
